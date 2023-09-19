@@ -12,6 +12,6 @@ The tools used: python, ros2, coppeliasim (V-REP)
 ## Launching
 1. Open the `robot.ttt` scene in coppeliasim
 2. open the ros2 node using the follwing command:
-   ```
-  ros2 run simVSmodel comparator
-   ```
+```
+ros2 run simVSmodel comparator
+```
