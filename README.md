@@ -17,3 +17,4 @@ The tools used: python, ros2, coppeliasim (V-REP)
 ```
   ros2 run simVSmodel comparator
 ```
+4. for a bit of a twist, you can change the commands and play around with the path in the node file `simVSmodel/simVSmodel/started_node.py`
